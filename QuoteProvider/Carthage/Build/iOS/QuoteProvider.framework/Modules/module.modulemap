@@ -1,0 +1,11 @@
+framework module QuoteProvider {
+  umbrella header "QuoteProvider.h"
+
+  export *
+  module * { export * }
+}
+
+module QuoteProvider.Swift {
+    header "QuoteProvider-Swift.h"
+    requires objc
+}

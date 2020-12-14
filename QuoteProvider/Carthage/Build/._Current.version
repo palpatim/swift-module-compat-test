@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "011c86fefd28f5a598bf8ff29d770797a1525bfb",
+  "iOS" : [
+    {
+      "hash" : "882fdc7c6c725fddeb0ed7fed4778d76aca3bc8d8afd9a463e986ade18b7b438",
+      "name" : "QuoteProvider",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}
